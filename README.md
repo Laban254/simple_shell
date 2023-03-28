@@ -1,5 +1,19 @@
 # 0x16. C - Simple Shell
 
+```sh
+     _____       _                     __    _____ _          _ _ 
+    / ____|     | |                   / _|  / ____| |        | | |
+   | |  __  __ _| |_ ___  ___    ___ | |_  | (___ | |__   ___| | |
+   | | |_ |/ _` | __/ _ \/ __|  / _ \|  _|  \___ \| '_ \ / _ \ | |
+   | |__| | (_| | ||  __/\__ \ | (_) | |    ____) | | | |  __/ | |
+    \_____|\__,_|\__\___||___/  \___/|_|   |_____/|_| |_|\___|_|_|
+```
+
+<details>
+<summary>The Gates of Shell by Spencer Cheng, featuring Julien Barbier</summary>
+<img src="https://user-images.githubusercontent.com/29776892/129798799-6f730688-8728-49ed-b01b-13bec0fa2896.jpeg">
+</details>
+
 ## Description
 
 In this project we are tasked with creating our own simple UNIX command interpreter. The program must have the exact same output as sh (/bin/sh) as well as the exact same error output. The only difference is when you print an error, the name of the program must be equivalent to your argv[0].
